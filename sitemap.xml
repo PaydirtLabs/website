@@ -15,4 +15,11 @@
     <priority>0.3</priority>
   </url>
 
+  <url>
+    <loc>https://paydirtlabs.com/whatsit/privacy/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
 </urlset>
